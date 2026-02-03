@@ -1289,6 +1289,12 @@
     .cta-content-simple h2 {
         font-size: 2.8rem;
     }
+    .faq-image {
+        width: 100%;
+    }
+    .pricing-overlay {
+        left: 0%;
+    }
 }
 
 
