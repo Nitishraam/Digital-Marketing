@@ -568,7 +568,7 @@
 
 /* WHY CHOOSE US */
 .why-section {
-    padding: 140px 0;
+    padding: 80px 0;
     background: linear-gradient(135deg, #fafafa 0%, #f5f5f5 100%);
     position: relative;
     overflow: hidden;
@@ -723,7 +723,7 @@
 
 /* SUCCESS STORIES */
 .stories-section {
-    padding: 140px 0;
+    padding: 80px 0;
     background: linear-gradient(135deg, #1a0000 0%, #2d0000 100%);
     color: white;
 }
@@ -818,7 +818,7 @@
 
 /* PROCESS */
 .process-section {
-    padding: 140px 0;
+    padding: 80px 0;
     background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
 }
 
@@ -1300,7 +1300,7 @@
 
 /* SERVICES SHOWCASE */
 .services-showcase {
-    padding: 140px 0;
+    padding: 80px 0;
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
     position: relative;
     overflow: hidden;
@@ -1413,7 +1413,7 @@
 
 /* PORTFOLIO GALLERY */
 .portfolio-gallery {
-    padding: 140px 0;
+    padding: 80px 0;
     background: linear-gradient(135deg, #1a0000 0%, #2d0000 100%);
     color: white;
 }
